@@ -1,4 +1,4 @@
-# Multi-Clipboard Messages 
+# Multi-Clipboard Messages
 
 This python script copies detailed message on the clipboard based on the phrase entered by the user. These key phrases include words like 'busy', 'agree' and 'ttyl'.
 ## Pre-requisites:
