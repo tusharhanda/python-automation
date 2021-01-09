@@ -16,6 +16,4 @@ Enter an argument which is the key phrase of the message you want to copy on the
 
     python main.py [keyphrase]
 
-## Authon Name:
-Tushar Handa
 
