@@ -4,7 +4,7 @@ This python script copies detailed message on the clipboard based on the phrase 
 ## Pre-requisites:
 
 User will need to install Python on the machine which can be downloaded from python.org.
-Also install pyperclip package using:
+Also, install pyperclip package using:
  
      
     pip install pyperclip
